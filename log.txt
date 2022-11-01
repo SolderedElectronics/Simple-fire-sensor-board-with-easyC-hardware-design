@@ -148,3 +148,21 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Butane, LPG & Smoke sensor MQ2 breakout to Butane--LPG---Smoke-sensor-MQ2-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Simple fire sensor board with easyC/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 09b168a] Updating open source files.
+ 1 file changed, 18 insertions(+)
+https://github.com/SolderedElectronics/Simple-fire-sensor-board-with-easyC-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/MEMS Microphone SPW2430HR5H-B breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Butane, LPG & Smoke sensor MQ2 breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+Butane--LPG---Smoke-sensor-MQ2-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Butane, LPG & Smoke sensor MQ2 breakout to Butane--LPG---Smoke-sensor-MQ2-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Simple fire sensor board with easyC/.git/
