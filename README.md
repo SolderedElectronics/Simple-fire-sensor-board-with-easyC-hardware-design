@@ -1,10 +1,12 @@
-## --- Product name --- Hardware design
+## Simple fire sensor board with easyC Hardware design
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
-|      [--- product name ----](https://www.solde.red/SKU)      |
+|      [Buy Simple fire sensor board with easyC](https://www.solde.red/333042)      |
 
------- product description ------
+On this module there is a component, a phototransistor, which is capable of detecting infrared radiation. Since fire emits a large amount of infrared radiation, this sensor will detect it, but that is not its only application. Wherever there are IR (infra-red) waves, this sensor will detect them, including solar radiation.
+
+The simple sensor comes with easyC connectors onboard, which enables quick and easy connection with the microcontroller.
 
 ## Repository contents
 
