@@ -1,5 +1,5 @@
 SKU: 333042
-Full product name: Simple fire sensor board with easyC
+Full product name: Simple fire sensor board qwiic
 Country of origin: Croatia
-HS tariff code: 85414025  
+HS tariff code: 85340090
 EAN/UPC barcode: 732388657001
